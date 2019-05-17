@@ -1,0 +1,9 @@
+C:\Repositories\Class 4\ExerciseChapter03\ExerciseChapter03\bin\Debug\ExerciseChapter03.exe.config
+C:\Repositories\Class 4\ExerciseChapter03\ExerciseChapter03\bin\Debug\ExerciseChapter03.exe
+C:\Repositories\Class 4\ExerciseChapter03\ExerciseChapter03\bin\Debug\ExerciseChapter03.pdb
+C:\Repositories\Class 4\ExerciseChapter03\ExerciseChapter03\obj\Debug\ExerciseChapter03.csprojAssemblyReference.cache
+C:\Repositories\Class 4\ExerciseChapter03\ExerciseChapter03\obj\Debug\ExerciseChapter03.frmMain.resources
+C:\Repositories\Class 4\ExerciseChapter03\ExerciseChapter03\obj\Debug\ExerciseChapter03.csproj.GenerateResource.cache
+C:\Repositories\Class 4\ExerciseChapter03\ExerciseChapter03\obj\Debug\ExerciseChapter03.csproj.CoreCompileInputs.cache
+C:\Repositories\Class 4\ExerciseChapter03\ExerciseChapter03\obj\Debug\ExerciseChapter03.exe
+C:\Repositories\Class 4\ExerciseChapter03\ExerciseChapter03\obj\Debug\ExerciseChapter03.pdb
